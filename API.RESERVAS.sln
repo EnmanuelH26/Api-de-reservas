@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.RESERVAS", "API.RESERVAS.csproj", "{B9C084B6-CA19-4367-BBA8-504E1FA97974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9C084B6-CA19-4367-BBA8-504E1FA97974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C084B6-CA19-4367-BBA8-504E1FA97974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C084B6-CA19-4367-BBA8-504E1FA97974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C084B6-CA19-4367-BBA8-504E1FA97974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB3E9D40-6277-4B2F-BED2-2A569C75DEF9}
+	EndGlobalSection
+EndGlobal
