@@ -15,7 +15,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<EventoDbContext>(opciones =>
                      opciones.UseSqlServer(builder.Configuration.GetConnectionString("ConexionSql")));
 
-builder.Services.AddScoped<IEventosRepository, EventosRepository>();
+builder.Services.AddScoped<IEventRepository, EventRepository>();
 
 var app = builder.Build();
 

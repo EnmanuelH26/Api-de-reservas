@@ -1,4 +1,5 @@
 ﻿using API.RESERVAS.Model;
+using ApiPelicula.Model;
 using Microsoft.EntityFrameworkCore;
 
 namespace API.RESERVAS.Data
@@ -9,6 +10,12 @@ namespace API.RESERVAS.Data
            : base(options) //metodo de la clase, hereda de base, sirve para recibir las entidades del db context
         {
         }
-        public DbSet<Eventos> Eventos { get; set; }
+        public DbSet<Event> Event { get; set; }
+        //public DbSet<Attendance> Attendance { get; set; }
+        public DbSet<Category> Category { get; set; }
+        public DbSet<Category_Event> Category_Event { get; set; }
+        //public DbSet<Feedback> Feedback { get; set; }
+        public DbSet<Role> Role { get; set; }
+        public DbSet<User> User { get; set; }
     }
 }

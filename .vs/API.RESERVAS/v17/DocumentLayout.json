@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\repository\\eventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:repository\\eventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:repository\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:controllers\\eventoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\data\\eventodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:data\\eventodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\repository\\irepository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:repository\\irepository\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\model\\dto\\creareventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:model\\dto\\creareventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\mapper\\eventosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:mapper\\eventosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|c:\\users\\lenovo\\desktop\\practica de apis\\api.reservas\\repository\\irepository\\ieventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9C084B6-CA19-4367-BBA8-504E1FA97974}|API.RESERVAS.csproj|solutionrelative:repository\\irepository\\ieventosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,92 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CrearEventoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Model\\Dto\\CrearEventoDto.cs",
-              "RelativeDocumentMoniker": "Model\\Dto\\CrearEventoDto.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Model\\Dto\\CrearEventoDto.cs",
-              "RelativeToolTip": "Model\\Dto\\CrearEventoDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\EventRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\EventRepository.cs",
+              "RelativeToolTip": "Repository\\EventRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:38:03.723Z"
+              "WhenOpened": "2024-08-02T22:59:01.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EventosMapper.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Mapper\\EventosMapper.cs",
-              "RelativeDocumentMoniker": "Mapper\\EventosMapper.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Mapper\\EventosMapper.cs",
-              "RelativeToolTip": "Mapper\\EventosMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:37:36.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EventosController.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Controllers\\EventosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EventosController.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Controllers\\EventosController.cs",
-              "RelativeToolTip": "Controllers\\EventosController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:32:02.316Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:30:02.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EventoDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Data\\EventoDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\EventoDbContext.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Data\\EventoDbContext.cs",
-              "RelativeToolTip": "Data\\EventoDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:27:22.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EventosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\EventosRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\EventosRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\EventosRepository.cs",
-              "RelativeToolTip": "Repository\\EventosRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:26:22.518Z",
+              "WhenOpened": "2024-08-02T22:58:54.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IEventosRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\IRepository\\IEventosRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\IRepository\\IEventosRepository.cs",
-              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\IRepository\\IEventosRepository.cs",
-              "RelativeToolTip": "Repository\\IRepository\\IEventosRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "DocumentIndex": 1,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\IRepository\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IRepository\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Practica de APIs\\API.RESERVAS\\Repository\\IRepository\\IEventRepository.cs",
+              "RelativeToolTip": "Repository\\IRepository\\IEventRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T01:24:28.475Z"
+              "WhenOpened": "2024-08-02T22:56:32.989Z",
+              "EditorCaption": ""
             }
           ]
         }
